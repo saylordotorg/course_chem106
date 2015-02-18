@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM106: Physical Chemistry II"
+course_description: "An exploration of the principles and laws of quantum mechanics as well as the interaction between matter and electromagnetic waves."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Principles of Quantum Theory** <span id="2"></span> 
 
 *In the classical world, Newton’s laws and laws of conservation of

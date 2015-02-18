@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM106: Physical Chemistry II"
+course_description: "An exploration of the principles and laws of quantum mechanics as well as the interaction between matter and electromagnetic waves."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Spectroscopy II: Electronic Transitions** <span
 id="8"></span> 
 *The previous unit dealt with IR causing rotational and vibrational

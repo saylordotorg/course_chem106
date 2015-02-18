@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM106: Physical Chemistry II"
+course_description: "An exploration of the principles and laws of quantum mechanics as well as the interaction between matter and electromagnetic waves."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Spectroscopy I: Rotational and Vibrational Spectra** <span
 id="7"></span> 
 *This is the first unit of the spectroscopy portion of the course.  When

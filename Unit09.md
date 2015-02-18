@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM106: Physical Chemistry II"
+course_description: "An exploration of the principles and laws of quantum mechanics as well as the interaction between matter and electromagnetic waves."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Spectroscopy III: Magnetic Resonance** <span id="9"></span> 
 *In this unit, you will learn about the interaction of matter with
 certain radio frequencies in the presence of a magnetic field.  These

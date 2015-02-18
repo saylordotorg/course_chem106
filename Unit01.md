@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM106: Physical Chemistry II"
+course_description: "An exploration of the principles and laws of quantum mechanics as well as the interaction between matter and electromagnetic waves."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Origins of Quantum Theory** <span id="1"></span> 
 
 *Quantum mechanics originated in the late nineteenth century, when

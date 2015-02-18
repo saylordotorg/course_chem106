@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM106: Physical Chemistry II"
+course_description: "An exploration of the principles and laws of quantum mechanics as well as the interaction between matter and electromagnetic waves."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Symmetry in Molecular Structures** <span id="6"></span> 
 *In order to better understand the spectroscopy portion of this course
 (Units 7–9), you need to learn about molecular symmetry and some point
