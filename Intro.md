@@ -176,4 +176,14 @@ is a prerequisite for this course.  If you are struggling with the
 mathematics as you progress through this course, consider taking a break
 to revisit MA103.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/chem106/Unit01/)
+- [Unit 2](https://legacy.saylor.org/chem106/Unit02/)
+- [Unit 3](https://legacy.saylor.org/chem106/Unit03/)
+- [Unit 4](https://legacy.saylor.org/chem106/Unit04/)
+- [Unit 5](https://legacy.saylor.org/chem106/Unit05/)
+- [Unit 6](https://legacy.saylor.org/chem106/Unit06/)
+- [Unit 7](https://legacy.saylor.org/chem106/Unit07/)
+- [Unit 8](https://legacy.saylor.org/chem106/Unit08/)
+- [Unit 9](https://legacy.saylor.org/chem106/Unit09/)
