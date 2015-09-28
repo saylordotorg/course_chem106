@@ -202,3 +202,4 @@ to revisit MA103.
 - [Unit 7](https://legacy.saylor.org/chem106/Unit07/)
 - [Unit 8](https://legacy.saylor.org/chem106/Unit08/)
 - [Unit 9](https://legacy.saylor.org/chem106/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM106/CHEM106-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM106/CHEM106-FinalExam-Answers.html)
