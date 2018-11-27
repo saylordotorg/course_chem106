@@ -143,14 +143,14 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Assessment 5”**
     Link: The Saylor Foundation’s [“Assessment
-    5”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment5-FINAL.docx)
+    5”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment5-FINAL.docx)
     (DOC)  
         
      Instructions: Complete the attached assessment questions to check
     your understanding of the material covered thus far. Once you have
     completed the assessment, you may check your answers against the
     [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment5-AnswerKey-FINAL.docx)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment5-AnswerKey-FINAL.docx)
     (DOC).  
         
      Completing this assessment should take approximately 1 hour.
@@ -240,14 +240,14 @@ behavior of quantum particles in more than one dimension.*
 
 -   **Assessment: The Saylor Foundation’s “Assessment 6”**
     Link: The Saylor Foundation’s [“Assessment
-    6”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment6-FINAL.docx)
+    6”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment6-FINAL.docx)
     (DOC)  
         
      Instructions: Complete the attached assessment questions to check
     your understanding of the material covered thus far. Once you have
     completed the assessment, you may check your answers against the
     [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment6-AnswerKey-FINAL.docx)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment6-AnswerKey-FINAL.docx)
     (DOC).  
         
      Completing this assessment should take approximately 1 hour.
@@ -371,14 +371,14 @@ high vibrational excitations.*
 
 -   **Assessment: The Saylor Foundation’s “Assessment 7”**
     Link: The Saylor Foundation’s [“Assessment
-    7”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment7-FINAL.docx)
+    7”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment7-FINAL.docx)
     (DOC)  
         
      Instructions: Complete the attached assessment questions to check
     your understanding of the material covered thus far. Once you have
     completed the assessment, you may check your answers against the
     [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment7-AnswerKey-FINAL.docx)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment7-AnswerKey-FINAL.docx)
     (DOC).  
         
      Completing this assessment should take approximately 1 hour.
