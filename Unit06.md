@@ -75,14 +75,14 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Assessment 10”**
     Link: The Saylor Foundation’s [“Assessment
-    10”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment10-FINAL.docx)
+    10”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment10-FINAL.docx)
     (DOC)  
         
      Instructions: Complete the attached assessment questions to check
     your understanding of the material covered thus far. Once you have
     completed the assessment, you may check your answers against the
     [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment10-AnswerKey-FINAL.docx)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment10-AnswerKey-FINAL.docx)
     (DOC).  
         
      Completing this assessment should take approximately 1 hour.

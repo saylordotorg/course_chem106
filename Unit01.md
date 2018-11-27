@@ -70,14 +70,14 @@ id="1.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Assessment 1”**
     Link: The Saylor Foundation’s [“Assessment
-    1”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment1-FINAL.docx)
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment1-FINAL.docx)
     (DOC)  
         
      Instructions: Complete the attached assessment questions to check
     your understanding of the material covered thus far. Once you have
     completed the assessment, you may check your answers against the
     [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment1-AnswerKey-FINAL.docx)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment1-AnswerKey-FINAL.docx)
     (DOC).  
         
      Completing this assessment should take approximately 1 hour.
@@ -250,14 +250,14 @@ work that led to quantum theory.*
 
 -   **Assessment: The Saylor Foundation’s “Assessment 2”**
     Link: The Saylor Foundation’s [“Assessment
-    2”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment2-FINAL.docx)
+    2”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment2-FINAL.docx)
     (DOC)  
         
      Instructions: Complete the attached assessment questions to check
     your understanding of the material covered thus far. Once you have
     completed the assessment, you may check your answers against the
     [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment2-AnswerKey-FINAL.docx)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment2-AnswerKey-FINAL.docx)
     (DOC).  
         
      Completing this assessment should take approximately 1 hour.

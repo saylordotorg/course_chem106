@@ -161,7 +161,7 @@ Spin-Orbit Coupling.*
     Voorhis’s “Helium Atom”**
     Links: MIT’s OpenCourseWare: Professor Griffin and Professor
     Voorhis’s [“Helium
-    Atom”](http://www.saylor.org/site/wp-content/uploads/2012/08/CHEM106-4.2.7-HeliumAtom.pdf)
+    Atom”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/CHEM106-4.2.7-HeliumAtom.pdf)
     (PDF)  
         
      Instructions: Please click on the MIT link above, scroll down the
@@ -217,14 +217,14 @@ id="4.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Assessment 8”**
     Link: The Saylor Foundation’s [“Assessment
-    8”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment8-FINAL.docx)
+    8”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment8-FINAL.docx)
     (DOC)  
         
      Instructions: Complete the attached assessment questions to check
     your understanding of the material covered thus far. Once you have
     completed the assessment, you may check your answers against the
     [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/CHEM106-Assessment8-AnswerKey-FINAL.docx)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment8-AnswerKey-FINAL.docx)
     (DOC).  
         
      Completing this assessment should take approximately 1 hour.
