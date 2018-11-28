@@ -80,11 +80,11 @@ Born-Oppenheimer approximation.*
     and “Part II” and “Modern Electronic Structure Theory”**
     Links: MIT’s OpenCourseWare: Professor Griffin and Professor
     Voorhis’s [“Molecular Orbital Theory – Part
-    I”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/CHEM106-5.2-1-MolecularOrbitalTheory.pdf) and
+    I”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/CHEM106-5.2-1-MolecularOrbitalTheory.pdf) and
     [“Part
-    II”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/CHEM106-5.2-2-MolecularOrbitalTheoryII.pdf)
+    II”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/CHEM106-5.2-2-MolecularOrbitalTheoryII.pdf)
     and [“Modern Electronic Structure
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/CHEM106-5.2-3-ModernElectronicStructureTheory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/CHEM106-5.2-3-ModernElectronicStructureTheory.pdf) (PDF)  
       
      Instructions: Please click on the links to download the PDFs. In
     these resources, you will learn how to carry out a linear
@@ -226,14 +226,14 @@ Density Functional Theory** <span id="5.4.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Assessment 9”**
     Link: The Saylor Foundation’s [“Assessment
-    9”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment9-FINAL.docx)
+    9”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/02/CHEM106-Assessment9-FINAL.docx)
     (DOC)  
         
      Instructions: Complete the attached assessment questions to check
     your understanding of the material covered thus far. Once you have
     completed the assessment, you may check your answers against the
     [“Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/CHEM106-Assessment9-AnswerKey-FINAL.docx)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/02/CHEM106-Assessment9-AnswerKey-FINAL.docx)
     (DOC).  
         
      Completing this assessment should take approximately 1 hour.
